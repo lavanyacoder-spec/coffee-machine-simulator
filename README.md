@@ -9,4 +9,10 @@ A simple command-line coffee machine simulator built with Python.
 
 ## How to Run
 ```bash
-python coffee_machine.py
+python main.py
+Example RunInput:
+Enter coffee type: Cappuccino
+Enter quantity: 2
+Output:
+Bill: 2 x Cappuccino = ₹300
+Thank you! Visit again ☕
